@@ -96,4 +96,12 @@ li {
 
 .result-container{
   min-height: 5rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #1c2042;
+}
+
+.message{
+  margin-bottom: 0.5rem;
 }
