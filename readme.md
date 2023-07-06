@@ -20,8 +20,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here]()
-- Live Site URL: [here]()
+- Solution URL: [here](https://github.com/aruntutter/rock-paper-scissors)
+- Live Site URL: [here](https://aruntutter.github.io/rock-paper-scissors/)
+- Live Site URL: [here](https://kaleidoscopic-pasca-459374.netlify.app)
 
 ## My process
 
