@@ -96,10 +96,6 @@ function displayResult(userChoice, compChoice, result) {
   resultContainer.innerHTML = resultMessage;
 
   // display score
-  compScoreEL.innerHTML = compScore;
-  userScoreEL.innerHTML = userScore;
-
-  console.log(`User Score: ${userChoice}`);
-  console.log(`Computer Score: ${compChoice}`);
-  console.log(`!----------NEXT GAME--------!`);
+  compScoreEL.innerText = compScore;
+  userScoreEL.innerText = userScore;
 }
